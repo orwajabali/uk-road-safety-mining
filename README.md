@@ -1,5 +1,6 @@
 # 🚦 UK Road Safety — Data Mining & Pattern Discovery
 
+![](road_accidents.jpg)
 Mining **8.6 million accident records** from the UK's national road safety database to uncover hidden patterns, identify high-risk conditions, and generate actionable safety recommendations using the full Knowledge Discovery in Databases (KDD) pipeline.
 
 ---
@@ -47,7 +48,7 @@ Applies end-to-end data mining on real government data to answer:
 
 | File | Description |
 |---|---|
-| `Final_Project.ipynb` | Full analysis — EDA, preprocessing, rule mining |
+| `uk-road-safety-mining.ipynb` | Full analysis — EDA, preprocessing, rule mining |
 | `data_subset_2016_2020.ipynb` | Subset extraction script (2016–2020 from 40-year dataset) |
 | `Accident_Key.xlsx` | Feature codebook — maps numerical codes to categories |
 
