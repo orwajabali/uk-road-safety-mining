@@ -1,0 +1,10 @@
+*.csv
+*.zip
+archive.zip
+dft-road-*.csv
+UKRoad_Accident.csv
+Final_Project-Copy1.ipynb
+Assig_2_23.pdf
+__pycache__/
+.ipynb_checkpoints/
+.mrx-link-logs/
